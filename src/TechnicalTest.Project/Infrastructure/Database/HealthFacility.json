@@ -1,0 +1,502 @@
+[
+  {
+    "Id": "db34c393-8027-7502-a9e4-e94a9b7fba23",
+    "City": "Rempeltown",
+    "IsOpen": "True",
+    "Name": "Waters, Feest and Wilderman",
+    "PhoneNumber": "",
+    "StreetName": "Caden Trafficway",
+    "StreetNumber": "1960 Hermiston Path",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "ab30dae0-75c1-c1b8-1d1d-63c77d1e3fbb",
+    "City": "South Theresia",
+    "IsOpen": "True",
+    "Name": "Watsica, Kiehn and Hand",
+    "PhoneNumber": "",
+    "StreetName": "Harvey Fords",
+    "StreetNumber": "972 Katheryn Crest",
+    "Type": "clinic"
+  },
+  {
+    "Id": "636c16f8-2ab5-db05-219a-457e40db4252",
+    "City": "West Amirtown",
+    "IsOpen": "True",
+    "Name": "McDermott, Effertz and Raynor",
+    "PhoneNumber": "(529) 857-2885",
+    "StreetName": "Grady Mills",
+    "StreetNumber": "9830 Demarcus Crossing",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "291dc795-8efb-1e4c-0b72-bd0a1d3af88a",
+    "City": "Heathcoteland",
+    "IsOpen": "True",
+    "Name": "Grady Inc",
+    "PhoneNumber": "",
+    "StreetName": "Felicia Lakes",
+    "StreetNumber": "165 Felipe Loaf",
+    "Type": "clinic"
+  },
+  {
+    "Id": "84512da5-5612-b66e-d555-89272f398142",
+    "City": "Lueilwitztown",
+    "IsOpen": "False",
+    "Name": "Anderson, Green and Rempel",
+    "PhoneNumber": "611.946.8964 x454",
+    "StreetName": "Senger Meadows",
+    "StreetNumber": "0307 Walter Locks",
+    "Type": "clinic"
+  },
+  {
+    "Id": "b63110da-1500-6ac0-ca4e-58426cfbbee6",
+    "City": "New Laurianneberg",
+    "IsOpen": "False",
+    "Name": "Heidenreich LLC",
+    "PhoneNumber": "1-300-739-8956",
+    "StreetName": "Kendall Center",
+    "StreetNumber": "4351 Dach Drives",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "13d9baa1-bd89-3f3f-5867-54a50424efd1",
+    "City": "Burdetteberg",
+    "IsOpen": "True",
+    "Name": "Zboncak LLC",
+    "PhoneNumber": "",
+    "StreetName": "Taya Junctions",
+    "StreetNumber": "924 Deshawn Field",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "0c2f7af1-4208-908a-6ce7-bac4fe2b49d9",
+    "City": "New Kalebburgh",
+    "IsOpen": "True",
+    "Name": "Murphy Inc",
+    "PhoneNumber": "844.956.5620 x4617",
+    "StreetName": "Robel Islands",
+    "StreetNumber": "0473 Jasen Mountains",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "7485a297-6d60-1cb9-d1f2-5d99c01b65a5",
+    "City": "East Vanessa",
+    "IsOpen": "False",
+    "Name": "Bins and Sons",
+    "PhoneNumber": "",
+    "StreetName": "Simonis Mountains",
+    "StreetNumber": "834 Yundt Haven",
+    "Type": "clinic"
+  },
+  {
+    "Id": "f251865f-b1cb-5fde-3049-a6a1037b402d",
+    "City": "West Jadenfurt",
+    "IsOpen": "True",
+    "Name": "Dibbert, Mante and Bartell",
+    "PhoneNumber": "339.727.6379 x195",
+    "StreetName": "Wolff Glen",
+    "StreetNumber": "788 Bruen Cliffs",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "610e7a1e-7a9f-8371-c112-3b16e5f1cf51",
+    "City": "Erwinstad",
+    "IsOpen": "True",
+    "Name": "Cummings - Hahn",
+    "PhoneNumber": "",
+    "StreetName": "Lillian Hill",
+    "StreetNumber": "39977 Senger Mills",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "77651481-56da-e50e-c425-4317c6171956",
+    "City": "East Ernie",
+    "IsOpen": "False",
+    "Name": "Satterfield - Boyle",
+    "PhoneNumber": "(464) 745-1931",
+    "StreetName": "Caterina Skyway",
+    "StreetNumber": "53465 Schaefer Rue",
+    "Type": "clinic"
+  },
+  {
+    "Id": "457a2fb2-040c-e405-15cd-31b876c87a3f",
+    "City": "Port Amir",
+    "IsOpen": "False",
+    "Name": "Kovacek - Farrell",
+    "PhoneNumber": "",
+    "StreetName": "Leatha Squares",
+    "StreetNumber": "3440 Wolff Road",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "ee205579-c815-c753-6c29-9d79365abca9",
+    "City": "New Belleville",
+    "IsOpen": "True",
+    "Name": "Armstrong and Sons",
+    "PhoneNumber": "",
+    "StreetName": "Wyman Pike",
+    "StreetNumber": "8873 Emile Mountain",
+    "Type": "clinic"
+  },
+  {
+    "Id": "b563e5f8-8976-7d44-0f80-620c25556ffc",
+    "City": "Hermannmouth",
+    "IsOpen": "False",
+    "Name": "Little, West and Kutch",
+    "PhoneNumber": "1-610-739-7628 x19323",
+    "StreetName": "Junius Gateway",
+    "StreetNumber": "0773 Mauricio Well",
+    "Type": "clinic"
+  },
+  {
+    "Id": "719d04ab-2bf7-e940-dcb2-d9e3678cadba",
+    "City": "Cronamouth",
+    "IsOpen": "True",
+    "Name": "Jast, Heller and Zulauf",
+    "PhoneNumber": "361.942.9311 x935",
+    "StreetName": "Gerhold Forge",
+    "StreetNumber": "3249 Tia Forge",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "90bf8711-c464-f0c9-10a3-de946646a217",
+    "City": "Darionport",
+    "IsOpen": "False",
+    "Name": "Leuschke, Schmidt and Ziemann",
+    "PhoneNumber": "",
+    "StreetName": "Frederic Creek",
+    "StreetNumber": "232 Freda Freeway",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "32cda0b9-4bbc-cdb2-a57a-d8c4b0611683",
+    "City": "McClureville",
+    "IsOpen": "False",
+    "Name": "Adams Inc",
+    "PhoneNumber": "",
+    "StreetName": "Kerluke Port",
+    "StreetNumber": "01955 Tabitha Keys",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "9efba8d2-de95-e798-3bad-60544cab8295",
+    "City": "North Melisa",
+    "IsOpen": "False",
+    "Name": "Metz Group",
+    "PhoneNumber": "",
+    "StreetName": "McLaughlin Plaza",
+    "StreetNumber": "960 Scottie Glens",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "c629c110-7bbe-c5fd-d4f2-ebe9ec043faf",
+    "City": "Jakubowskishire",
+    "IsOpen": "True",
+    "Name": "Goyette Inc",
+    "PhoneNumber": "753.270.0194 x9667",
+    "StreetName": "Monserrat Well",
+    "StreetNumber": "3334 Wolf Estates",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "bec15b8c-034b-da82-08e6-f70fea5e80f9",
+    "City": "Lake Dellshire",
+    "IsOpen": "True",
+    "Name": "Schroeder - Turner",
+    "PhoneNumber": "",
+    "StreetName": "Gardner Street",
+    "StreetNumber": "253 Dickinson Port",
+    "Type": "clinic"
+  },
+  {
+    "Id": "efb342f8-4f38-57c4-aa35-c9a2f3aefa36",
+    "City": "Julieton",
+    "IsOpen": "True",
+    "Name": "Stiedemann - Kohler",
+    "PhoneNumber": "",
+    "StreetName": "Schultz Corner",
+    "StreetNumber": "447 Klocko Courts",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "f0c7b16e-c4e9-0c4a-3f4f-bdd784eedb76",
+    "City": "Batzshire",
+    "IsOpen": "True",
+    "Name": "Rosenbaum, Steuber and Quigley",
+    "PhoneNumber": "",
+    "StreetName": "Nicklaus Street",
+    "StreetNumber": "7772 Haley Falls",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "a9f1f171-5051-3d77-976a-13163adfe659",
+    "City": "East Kacie",
+    "IsOpen": "False",
+    "Name": "Buckridge Inc",
+    "PhoneNumber": "804.438.9441",
+    "StreetName": "Kellen Plain",
+    "StreetNumber": "1580 Quentin Valley",
+    "Type": "clinic"
+  },
+  {
+    "Id": "39a1c0ec-9097-3310-f8a6-afe991edd2bb",
+    "City": "North Jessica",
+    "IsOpen": "False",
+    "Name": "Deckow - Larkin",
+    "PhoneNumber": "",
+    "StreetName": "Hilpert Mission",
+    "StreetNumber": "5767 Filomena Villages",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "0131535a-51bd-1de4-3a8a-597eb033d25f",
+    "City": "Shyannefort",
+    "IsOpen": "True",
+    "Name": "Ondricka and Sons",
+    "PhoneNumber": "",
+    "StreetName": "Sabryna Centers",
+    "StreetNumber": "1818 Streich Skyway",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "c3eb6468-a14d-e1de-e1bd-b0aaa08eaba9",
+    "City": "Ullrichfurt",
+    "IsOpen": "True",
+    "Name": "Parisian, Funk and Jaskolski",
+    "PhoneNumber": "",
+    "StreetName": "Nikki Heights",
+    "StreetNumber": "347 Cleveland Mission",
+    "Type": "clinic"
+  },
+  {
+    "Id": "e7bc5898-e5ae-9a9c-db83-ff0d369182c5",
+    "City": "Mertzburgh",
+    "IsOpen": "False",
+    "Name": "Sipes LLC",
+    "PhoneNumber": "(446) 705-4706 x87623",
+    "StreetName": "Terence Parkways",
+    "StreetNumber": "1551 Gulgowski Locks",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "2d8050d4-0e02-b86e-744f-20ffa03a7cab",
+    "City": "South Eldridge",
+    "IsOpen": "True",
+    "Name": "Nader - Deckow",
+    "PhoneNumber": "451-327-2879 x6675",
+    "StreetName": "Ilene Dam",
+    "StreetNumber": "122 Farrell Street",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "58e6b0de-eb76-83b1-c850-e7c9a1d1ab4f",
+    "City": "Lake Cecelia",
+    "IsOpen": "True",
+    "Name": "Douglas LLC",
+    "PhoneNumber": "",
+    "StreetName": "Brakus Locks",
+    "StreetNumber": "74104 Cleta Drive",
+    "Type": "clinic"
+  },
+  {
+    "Id": "50d5eb3b-7d0d-89a7-e903-725ec49cfaa1",
+    "City": "Lake Clarissa",
+    "IsOpen": "True",
+    "Name": "Beer Group",
+    "PhoneNumber": "1-504-779-2106",
+    "StreetName": "Khalid Tunnel",
+    "StreetNumber": "08605 John Lake",
+    "Type": "clinic"
+  },
+  {
+    "Id": "862e5306-2aaa-e94e-9efd-65b126a417a2",
+    "City": "East Hazleshire",
+    "IsOpen": "False",
+    "Name": "Williamson, Dietrich and Gibson",
+    "PhoneNumber": "",
+    "StreetName": "McDermott River",
+    "StreetNumber": "59611 Halie Trail",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "b4c4d0a4-2c64-619e-085d-6e727852be2b",
+    "City": "Lake Darionfurt",
+    "IsOpen": "True",
+    "Name": "Leffler Inc",
+    "PhoneNumber": "515.829.5035",
+    "StreetName": "Meghan Row",
+    "StreetNumber": "676 Luz Road",
+    "Type": "clinic"
+  },
+  {
+    "Id": "4dc24655-24a3-10a5-9cec-b10f17f56245",
+    "City": "Adolphside",
+    "IsOpen": "True",
+    "Name": "Kuphal - Larkin",
+    "PhoneNumber": "",
+    "StreetName": "Reinger Isle",
+    "StreetNumber": "35506 Narciso Stravenue",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "f3bad0ec-45d7-da3c-b4cc-7d4dbbdc714c",
+    "City": "Korbinton",
+    "IsOpen": "True",
+    "Name": "Kilback Inc",
+    "PhoneNumber": "568-871-8675",
+    "StreetName": "Kaci Field",
+    "StreetNumber": "583 Kulas Shores",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "e05c393f-c9e1-7fff-2bb3-18787a8f4913",
+    "City": "Bryanaside",
+    "IsOpen": "False",
+    "Name": "DuBuque, Morissette and Lindgren",
+    "PhoneNumber": "",
+    "StreetName": "Monahan Squares",
+    "StreetNumber": "38443 Violette Plains",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "a88529fb-ca98-0f54-09e8-99d6a75755c0",
+    "City": "Paulineshire",
+    "IsOpen": "False",
+    "Name": "Stehr, Gottlieb and Watsica",
+    "PhoneNumber": "",
+    "StreetName": "Estel Mountain",
+    "StreetNumber": "3978 Hadley Summit",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "decf657b-8299-2363-d03a-c8232dc46025",
+    "City": "Lukaschester",
+    "IsOpen": "False",
+    "Name": "Roob, Farrell and Turcotte",
+    "PhoneNumber": "",
+    "StreetName": "Hickle Junctions",
+    "StreetNumber": "656 Aida Squares",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "92526a83-c956-74b4-e54c-d6f92f29d8d3",
+    "City": "Waylonton",
+    "IsOpen": "True",
+    "Name": "Emmerich - Torphy",
+    "PhoneNumber": "",
+    "StreetName": "Ursula Hollow",
+    "StreetNumber": "4127 Witting Ford",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "14fd575e-6bbf-787a-c561-d75d0230e245",
+    "City": "Lake April",
+    "IsOpen": "False",
+    "Name": "Ullrich - Osinski",
+    "PhoneNumber": "",
+    "StreetName": "Carmelo Locks",
+    "StreetNumber": "6183 Runolfsson Pass",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "3d527388-c305-b16a-b15a-f84dab6af3a7",
+    "City": "West Tinatown",
+    "IsOpen": "True",
+    "Name": "O'Kon, Bruen and Zieme",
+    "PhoneNumber": "(232) 285-3450",
+    "StreetName": "Marvin Underpass",
+    "StreetNumber": "1042 Langosh Mission",
+    "Type": "clinic"
+  },
+  {
+    "Id": "d6c5f561-4bc6-1765-f0d9-ccf4f15672b5",
+    "City": "South Daphneychester",
+    "IsOpen": "True",
+    "Name": "Doyle and Sons",
+    "PhoneNumber": "",
+    "StreetName": "Grimes Wells",
+    "StreetNumber": "07308 Turner Point",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "bc719169-9bd6-9acd-ed4b-6364732ccd5b",
+    "City": "New Leilabury",
+    "IsOpen": "False",
+    "Name": "Kling - Wintheiser",
+    "PhoneNumber": "",
+    "StreetName": "Cruickshank Inlet",
+    "StreetNumber": "15991 Monica Plaza",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "0dfb306e-0b6a-3c7e-0e3b-4c2cf675c05a",
+    "City": "Port Verla",
+    "IsOpen": "True",
+    "Name": "Davis, Ortiz and Stokes",
+    "PhoneNumber": "",
+    "StreetName": "Cummerata Path",
+    "StreetNumber": "515 Patsy Ridge",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "19e343e8-37f9-c5d1-272a-e87be700a4c3",
+    "City": "Diannamouth",
+    "IsOpen": "True",
+    "Name": "Ziemann, Jenkins and Welch",
+    "PhoneNumber": "485-790-3948 x62725",
+    "StreetName": "Yundt Throughway",
+    "StreetNumber": "78921 Bradtke Street",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "c186710b-655a-5d4a-1234-ae9b4ea1a477",
+    "City": "West Robb",
+    "IsOpen": "True",
+    "Name": "Funk LLC",
+    "PhoneNumber": "365-507-0782 x0641",
+    "StreetName": "Jordi Island",
+    "StreetNumber": "378 Cremin Crossing",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "2f7c098a-b349-3662-5e35-e53f2202550d",
+    "City": "Lake Lethaview",
+    "IsOpen": "True",
+    "Name": "Dickinson, Mayer and Dickens",
+    "PhoneNumber": "614.275.8854",
+    "StreetName": "Conroy Glen",
+    "StreetNumber": "5083 Thiel Squares",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "85208996-ffef-82ff-f985-06c489357785",
+    "City": "South Carleefurt",
+    "IsOpen": "True",
+    "Name": "Krajcik and Sons",
+    "PhoneNumber": "",
+    "StreetName": "Cremin Haven",
+    "StreetNumber": "94891 Abe Ports",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "ddf07186-7583-577a-0f50-62257f0a3a10",
+    "City": "Lednerstad",
+    "IsOpen": "True",
+    "Name": "Heaney - Dooley",
+    "PhoneNumber": "",
+    "StreetName": "Schumm Mount",
+    "StreetNumber": "319 Shanelle Ridges",
+    "Type": "clinic"
+  },
+  {
+    "Id": "c504a0df-1e80-8b88-0af9-36c3ac9dac29",
+    "City": "East Albin",
+    "IsOpen": "False",
+    "Name": "Sipes - Marvin",
+    "PhoneNumber": "",
+    "StreetName": "Stokes Fork",
+    "StreetNumber": "936 West Plaza",
+    "Type": "communityResource"
+  }
+]
