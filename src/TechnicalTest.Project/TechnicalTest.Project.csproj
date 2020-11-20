@@ -2,16 +2,30 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <Nullable>enable</Nullable>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Bogus" Version="31.0.3" />
       <PackageReference Include="FileContextCore" Version="3.4.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.10" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.0" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Infrastructure\Database" />
+        <None Update="Stores/Data/modalities.json" CopyToOutputDirectory="Always" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Update="Stores\Data\modalities.json">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Domain" />
     </ItemGroup>
 
 </Project>
