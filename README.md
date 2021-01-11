@@ -7,11 +7,7 @@
 
 2. Download VSCode or an IDE of your choice.
 
-3. Clone the repo locally.
-
-```shell
-git clone https://github.com/clinia/technical-test-full-stack.git
-```
+3. [Fork the repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
 
 4. Open the root folder (or the solution file depending on your IDE).
 
