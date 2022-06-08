@@ -1,17 +1,21 @@
 # Technical Test - Full-Stack
 
 ## Setup
+
+Before starting, you should Clone or [fork the repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo). If forking, it is **highly recommended** to [create a private fork](https://stackoverflow.com/a/30352360).
+
+> **Note**: For an experimental but quicker setup, we've added a config for devcontainers which you can use. If you would like to try it, skip to the [Setup using devcontainers](#optional-setup-using-devcontainers) section.
+
+## Setup natively
 1. Download and install .NET Core.
 
 >https://dotnet.microsoft.com/download
 
 2. Download VSCode or an IDE of your choice.
 
-3. [Fork the repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
+3. Open the root folder (or the solution file depending on your IDE).
 
-4. Open the root folder (or the solution file depending on your IDE).
-
-5. Run the project.
+4. Run the project.
 ```shell
 dotnet run -p src/TechnicalTest.Project
 ```
@@ -25,6 +29,32 @@ Or using an HTTP client of your choice.
 
 6. Code away!
 ---
+
+## (Optional) Setup using devcontainers
+
+Devcontainers are a really neat feature from VS Code which allows your development environment (dependencies) to be containerized.
+
+### Using Github Codespaces
+If you have a Github premium membership, you can simply open this repository in a codespace:
+
+![Github Codespace](doc-images/codespaces.png)
+
+### Using Docker
+1. Install [Docker](https://docs.docker.com/get-docker/)
+
+2. Open this folder in VS Code (bash `code .`)
+
+3. Install the [recommended extensions](./.vscode/extensions.json)
+
+4. **Important**: if you are on arm64 (i.e. M1 Macs), modify the `build.args.VARIANT` variable to `"VARIANT": "3.1-buster-arm64v8"` in [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json)
+
+5. Open the folder in the devcontainer using either the prompt in the bottom right corner or launching the `Remote-Containers: Rebuild and Reopen in Container` command in the palette (Cmd/Control + Shift + P)
+
+**Prompt for reference:**
+![Prompt](./doc-images/open-in-container.png)
+
+6. You should not be able to run & debug the project pressing F5 ([.NET Core Launch (web)](./.vscode/launch.json))
+ 
 ## What to do
 
 ### 1. Accessing the data
