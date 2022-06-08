@@ -39,6 +39,10 @@ If you have a Github premium membership, you can simply open this repository in 
 
 ![Github Codespace](doc-images/codespaces.png)
 
+You should not be able to run & debug the project pressing F5 ([.NET Core Launch (web)](./.vscode/launch.json)).
+
+> Note: If you get an invalid `cwd` error, this is a known bug. Simply re-run the target and it should work on the 2nd time.
+
 ### Using Docker
 1. Install [Docker](https://docs.docker.com/get-docker/)
 
@@ -55,6 +59,8 @@ If you have a Github premium membership, you can simply open this repository in 
 
 6. You should not be able to run & debug the project pressing F5 ([.NET Core Launch (web)](./.vscode/launch.json))
  
+> Note: If you get an invalid `cwd` error, this is a known bug. Simply re-run the target and it should work on the 2nd time.
+
 ## What to do
 
 ### 1. Accessing the data
