@@ -4,7 +4,7 @@
 
 Before starting, you should Clone or [fork the repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo). If forking, it is **highly recommended** to [create a private fork](https://stackoverflow.com/a/30352360).
 
-> **Note**: For an experimental but quicker setup, we've added a config for devcontainers which you can use. If you would like to try it, skip to the [Setup using devcontainers](#optional-setup-using-devcontainers) section.
+
 
 ## Setup natively
 1. Download and install .NET Core.
