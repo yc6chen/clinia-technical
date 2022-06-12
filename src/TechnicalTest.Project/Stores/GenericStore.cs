@@ -10,7 +10,9 @@ namespace TechnicalTest.Project.Stores
         public IEnumerable<T> ReadAll<T>()
         {
             var file = File.ReadAllText($"{Directory.GetCurrentDirectory()}/Stores/Data/modalities.json");
-            return JsonConvert.DeserializeObject<IEnumerable<T>>(file);
+            var test = JsonConvert.DeserializeObject<IEnumerable<T>>(file);
+            
+            return test;
         }
     }
 }

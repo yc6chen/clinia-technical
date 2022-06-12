@@ -4,7 +4,7 @@
     "City": "Ottawa",
     "IsOpen": "True",
     "Name": "Lang Inc",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Alexandra Path",
     "StreetNumber": "164 Drew Squares",
     "Type": "pharmacy"
@@ -24,7 +24,7 @@
     "City": "Quebec City",
     "IsOpen": "False",
     "Name": "Ondricka LLC",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Wilber Valley",
     "StreetNumber": "673 Callie Overpass",
     "Type": "clinic"
@@ -44,7 +44,7 @@
     "City": "Montreal",
     "IsOpen": "True",
     "Name": "Romaguera - Collier",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Tremaine Road",
     "StreetNumber": "1283 Glover Neck",
     "Type": "communityResource"
@@ -54,7 +54,7 @@
     "City": "Ottawa",
     "IsOpen": "False",
     "Name": "Rodriguez Inc",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Fadel Pines",
     "StreetNumber": "319 Gusikowski Gardens",
     "Type": "pharmacy"
@@ -64,7 +64,7 @@
     "City": "Ottawa",
     "IsOpen": "False",
     "Name": "Zemlak Group",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Toni Mission",
     "StreetNumber": "480 Irwin Burg",
     "Type": "communityResource"
@@ -94,7 +94,7 @@
     "City": "Montreal",
     "IsOpen": "False",
     "Name": "Mayert Inc",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Moshe Drives",
     "StreetNumber": "04202 Renner Crest",
     "Type": "clinic"
@@ -104,7 +104,7 @@
     "City": "Ottawa",
     "IsOpen": "False",
     "Name": "Wolff - Moore",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Lynch Common",
     "StreetNumber": "994 Green Throughway",
     "Type": "clinic"
@@ -114,7 +114,7 @@
     "City": "Quebec City",
     "IsOpen": "True",
     "Name": "Kovacek, Hirthe and Hand",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Bennett Track",
     "StreetNumber": "98591 Rocio Harbor",
     "Type": "clinic"
@@ -144,7 +144,7 @@
     "City": "Ottawa",
     "IsOpen": "True",
     "Name": "Bode - Runte",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Bridgette Ports",
     "StreetNumber": "5718 Hoeger Circles",
     "Type": "communityResource"
@@ -164,7 +164,7 @@
     "City": "Quebec City",
     "IsOpen": "True",
     "Name": "Parker - Strosin",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Herbert Cove",
     "StreetNumber": "149 Cassie Plaza",
     "Type": "communityResource"
@@ -194,7 +194,7 @@
     "City": "Ottawa",
     "IsOpen": "True",
     "Name": "Predovic - Thompson",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Mason Motorway",
     "StreetNumber": "3149 Rempel Track",
     "Type": "pharmacy"
@@ -204,7 +204,7 @@
     "City": "Ottawa",
     "IsOpen": "False",
     "Name": "Crona Group",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Considine Isle",
     "StreetNumber": "884 Jaskolski Bridge",
     "Type": "clinic"
@@ -224,7 +224,7 @@
     "City": "Montreal",
     "IsOpen": "False",
     "Name": "Beatty - Greenholt",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Luettgen Way",
     "StreetNumber": "6817 Julianne Meadows",
     "Type": "pharmacy"
@@ -254,7 +254,7 @@
     "City": "Montreal",
     "IsOpen": "True",
     "Name": "Blick, Leffler and Altenwerth",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Kiehn Locks",
     "StreetNumber": "8400 Dell Cove",
     "Type": "clinic"
@@ -294,7 +294,7 @@
     "City": "Montreal",
     "IsOpen": "True",
     "Name": "Zemlak LLC",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Abigale Rue",
     "StreetNumber": "703 Rempel Via",
     "Type": "clinic"
@@ -304,7 +304,7 @@
     "City": "Montreal",
     "IsOpen": "False",
     "Name": "D'Amore - Fay",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Mabel Shores",
     "StreetNumber": "654 Bashirian Road",
     "Type": "clinic"
@@ -314,7 +314,7 @@
     "City": "Ottawa",
     "IsOpen": "False",
     "Name": "Hackett - Wisozk",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Cory Ville",
     "StreetNumber": "0027 Renee Trail",
     "Type": "pharmacy"
@@ -324,7 +324,7 @@
     "City": "Quebec City",
     "IsOpen": "False",
     "Name": "Hansen, Rempel and Robel",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Georgiana Shore",
     "StreetNumber": "44826 Kariane Mission",
     "Type": "clinic"
@@ -374,7 +374,7 @@
     "City": "Quebec City",
     "IsOpen": "False",
     "Name": "McLaughlin - Zemlak",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Christop Mission",
     "StreetNumber": "2856 Delfina Course",
     "Type": "clinic"
@@ -384,7 +384,7 @@
     "City": "Ottawa",
     "IsOpen": "True",
     "Name": "Kessler, Moen and Quigley",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Glover Stream",
     "StreetNumber": "19839 Tyshawn Forest",
     "Type": "pharmacy"
@@ -394,7 +394,7 @@
     "City": "Ottawa",
     "IsOpen": "True",
     "Name": "Stanton Inc",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Kenna Passage",
     "StreetNumber": "0812 McClure Drive",
     "Type": "clinic"
@@ -404,7 +404,7 @@
     "City": "Montreal",
     "IsOpen": "False",
     "Name": "Kris, Durgan and McClure",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Hilda Creek",
     "StreetNumber": "9449 Robert Via",
     "Type": "communityResource"
@@ -434,7 +434,7 @@
     "City": "Quebec City",
     "IsOpen": "True",
     "Name": "Lockman and Sons",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Lyric Highway",
     "StreetNumber": "31981 Oberbrunner Expressway",
     "Type": "clinic"
@@ -474,7 +474,7 @@
     "City": "Quebec City",
     "IsOpen": "True",
     "Name": "Turcotte - Medhurst",
-    "PhoneNumber": null,
+    "PhoneNumber": "",
     "StreetName": "Schimmel Tunnel",
     "StreetNumber": "9947 Pollich Stream",
     "Type": "communityResource"
@@ -498,5 +498,55 @@
     "StreetName": "MacGyver Center",
     "StreetNumber": "098 Gottlieb Junctions",
     "Type": "communityResource"
+  },
+  {
+    "Id": "ab30d23230-75c1-c1b8-1d1d-63c77d1e3fbb",
+    "City": "Testcity",
+    "IsOpen": "",
+    "Name": "ddddd Group",
+    "PhoneNumber": "1-667-785-4072 x8988",
+    "StreetName": "Dovie Spur",
+    "StreetNumber": "4737 Williamson Green",
+    "Type": "clinic"
+  },
+  {
+    "Id": "ab30daaaaaa-75c1-c1b8-1d1d-6oc77d1e3oob",
+    "City": "Testcity",
+    "IsOpen": "",
+    "Name": "ddddd Group",
+    "PhoneNumber": "1-667-785-4072 x8988",
+    "StreetName": "Dovie Spur",
+    "StreetNumber": "4737 Williamson Green",
+    "Type": "clinic"
+  },
+  {
+    "Id": "affffff",
+    "City": "Testcity",
+    "IsOpen": "",
+    "Name": "ddddd Group",
+    "PhoneNumber": "1-667-785-4072 x8988",
+    "StreetName": "Dovie Spur",
+    "StreetNumber": "4737 Williamson Green",
+    "Type": "clinic"
+  },
+  {
+    "Id": "afoooooff",
+    "City": "Testcity",
+    "IsOpen": "",
+    "Name": "ddddd Group",
+    "PhoneNumber": "1-667-785-4072 x8988",
+    "StreetName": "Dovie Spur",
+    "StreetNumber": "4737 Williamson Green",
+    "Type": "clinic"
+  },
+  {
+    "Id": "affffddddffghddf",
+    "City": "Testcity",
+    "IsOpen": "",
+    "Name": "ddddd Group",
+    "PhoneNumber": "1-667-785-4072 x8988",
+    "StreetName": "Dovie Spur",
+    "StreetNumber": "4737 Williamson Green",
+    "Type": "clinic"
   }
 ]

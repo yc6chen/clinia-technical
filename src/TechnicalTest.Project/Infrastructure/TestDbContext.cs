@@ -10,6 +10,15 @@ namespace TechnicalTest.Project.Infrastructure
             
         }
 
+        public DbSet<HealthFacility> HealthFacility { get; set; }
+        public DbSet<Practitioner> Practitioner { get; set; }
+
+        public DbSet<Service> Service { get; set; }
+
+        public DbSet<PractitionerService> PractitionerService { get; set; }
+        
+        public DbSet<HealthFacilityService> HealthFacilityService { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<HealthFacility>();

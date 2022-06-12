@@ -9,7 +9,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
+using TechnicalTest.Project.Domain;
 using TechnicalTest.Project.Infrastructure;
+using TechnicalTest.Project.Infrastructure.Repositories;
 
 namespace TechnicalTest.Project
 {
@@ -23,7 +25,11 @@ namespace TechnicalTest.Project
                 options.UseFileContextDatabase<JSONSerializer, DefaultFileManager>(
                         location: $"{Directory.GetCurrentDirectory()}/Infrastructure/Database")
                     .EnableSensitiveDataLogging());
-            
+            services.AddScoped<IRepository<HealthFacility>, HealthFacilityRepository>();
+            services.AddScoped<IRepository<HealthFacilityService>, HealthFacilityServiceRepository>();
+            services.AddScoped<IRepository<Practitioner>, PractitionerRepository>();
+            services.AddScoped<IRepository<PractitionerService>, PractitionerServiceRepository>();
+            services.AddScoped<IRepository<Service>, ServiceRepository>();
             JsonConvert.DefaultSettings = () => new JsonSerializerSettings
             {
                 ContractResolver = new CamelCasePropertyNamesContractResolver(),
