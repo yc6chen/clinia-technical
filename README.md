@@ -39,7 +39,8 @@ Put, Post, and endpoints that get nested relationships do not return status code
 ## Modality Endpoints
 Gets all modalities from the modalities.json file using polymorphism.  
 
-Returns 100 entries so example response will not be fully provided
+Returns 100 entries so example response will not be fully provided  
+
 Example Request:
 ```
 Get  http://localhost:5000/api/Modality/get_all_modality
@@ -69,7 +70,8 @@ Example Response:
 
 ## Health Facility Endpoints
 
-Get the First Health Facility in the Database
+Get the First Health Facility in the Database  
+
 Example Request:
 ```
 Get  http://localhost:5000/api/Facility/get_facility
@@ -90,7 +92,8 @@ Example Response:
 }
 ```
 
-Get a Health Facility and all of its nested relationships by its Id
+Get a Health Facility and all of its nested relationships by its Id  
+
 
 Example Request:
 ```
@@ -98,7 +101,8 @@ Get	 http://localhost:5000/api/Facility/get_facility_id?id=ab30dae0-75c1-c1b8-1d
 ```
 
 
-Add a new Health Facility to the Database
+Add a new Health Facility to the Database  
+
 
 Example Request:
 ```
@@ -124,7 +128,8 @@ Body:
 }
 ```
 
-List all Health Facilities with the given name
+List all Health Facilities with the given name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_facility_name?name=Champlin Group
@@ -144,7 +149,8 @@ Example Response:
 }
 ```
 
-Count all Health Facilities with the given name
+Count all Health Facilities with the given name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_facility_name?name=Champlin Group
@@ -155,7 +161,8 @@ Example Response:
 1
 ```
 
-List all Health Facilities with the given phone
+List all Health Facilities with the given phone  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_facility_phone?phone=1-667-785-4072 x8988
@@ -175,7 +182,8 @@ Example Response:
 }
 ```
 
-Count all Health Facilities with the given phone
+Count all Health Facilities with the given phone  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_facility_phone?phone=1-667-785-4072 x8988
@@ -186,7 +194,8 @@ Example Response:
 1
 ```
 
-List all Health Facilities with the given street number
+List all Health Facilities with the given street number  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_facility_street_num?streetnumber=4737 Williamson Green
@@ -207,7 +216,8 @@ Example Response:
 }
 ```
 
-Count all Health Facilities with the given street number
+Count all Health Facilities with the given street number  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_facility_street_num?streetnumber=4737 Williamson Green
@@ -218,7 +228,8 @@ Example Response:
 1
 ```
 
-List all Health Facilities with the given street name
+List all Health Facilities with the given street name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_facility_street?streetname=Dovie Spur
@@ -239,7 +250,8 @@ Example Response:
 }
 ```
 
-Count all Health Facilities with the given street name
+Count all Health Facilities with the given street name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_facility_street?streetname=Dovie Spur
@@ -250,43 +262,50 @@ Example Response:
 1
 ```
 
-List all Health Facilities with the given city
+List all Health Facilities with the given city  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_facility_city?city=Quebec City
 ```
 
-Count all Health Facilities with the given city
+Count all Health Facilities with the given city  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_facility_city?city=Quebec City
 ```
 
-List all Health Facilities with the given open status
+List all Health Facilities with the given open status  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_facility_open_status?status=true
 ```
 
-Count all Health Facilities with the given open status
+Count all Health Facilities with the given open status  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_facility_open_status?name=true
 ```
 
-List all Health Facilities with the given type
+List all Health Facilities with the given type  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_facility_type?type=clinic
 ```
 
-Count all Health Facilities with the given type
+Count all Health Facilities with the given type  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_facility_type?type=clinic
 ```
 
-Update existing Health Facility
+Update existing Health Facility  
+
 Example Request:
 ```
 Put	 http://localhost:5000/api/Facility/put_facility
@@ -311,7 +330,8 @@ Body:
 }
 ```
 
-Delete Health Facility
+Delete Health Facility  
+
 Example Request:
 ```
 Delete	 http://localhost:5000/api/Facility/delete_facility?id=au4sdae0-75c1-c1b8-1d1d-63c77d1e3fbb
@@ -319,67 +339,78 @@ Delete	 http://localhost:5000/api/Facility/delete_facility?id=au4sdae0-75c1-c1b8
 
 ## Practitioner Endpoints
 
-Get the First Practitioner in the Database
+Get the First Practitioner in the Database  
+
 Example Request:
 ```
 Get  http://localhost:5000/api/Practitioner/get_practitioner
 ```
 
-Get a Practitioner and all of its nested relationships by its Id
+Get a Practitioner and all of its nested relationships by its Id  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Practitioner/get_practitioner_id?id=1a28ae23-0b58-5496-6a33-df58adfcb77b
 ```
 
-List all Practitioners with the given first name
+List all Practitioners with the given first name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_practitioner_firstname?firstname=Peter
 ```
 
-Count all Practitioners with the given first name
+Count all Practitioners with the given first name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_practitioner_firstname?firstname=Peter
 ```
 
-List all Practitioners with the given last name
+List all Practitioners with the given last name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_practitioner_lastname?lastname=Leuschke
 ```
 
-Count all Practitioners with the given last name
+Count all Practitioners with the given last name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_practitioner_lastname?lastname=Leuschke
 ```
 
-List all Practitioners with the given age
+List all Practitioners with the given age  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_practitioner_age?age=46
 ```
 
-Count all Practitioners with the given age
+Count all Practitioners with the given age  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_practitioner_age?age=46
 ```
 
-List all Practitioners with the given practitioner number
+List all Practitioners with the given practitioner number  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_practitioner_number?practitionernumber=3P774X62OMGB87284
 ```
 
-Count all Practitioners with the given practitioner number
+Count all Practitioners with the given practitioner number  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_practitioner_number?practitionernumber=3P774X62OMGB87284
 ```
 
-Add a new Practitioner to the Database
+Add a new Practitioner to the Database  
+
 Example Request:
 ```
 Post  http://localhost:5000/api/Practitioner/post_practitioner
@@ -404,7 +435,8 @@ Body:
 
 Update an existing practitioner Example Request:
 ```
-Put  http://localhost:5000/api/Practitioner/put_practitioner
+Put  http://localhost:5000/api/Practitioner/put_practitioner  
+
 Body: 
 { 
     "practitioner": {
@@ -424,7 +456,8 @@ Body:
 }
 ```
 
-Delete a Practitioner from the Database
+Delete a Practitioner from the Database  
+
 Example Request:
 ```
 Delete  http://localhost:5000/api/Practitioner/delete_practitioner?id=1a24ae23-0b58-5496-6a33-df58adfcb77b
@@ -432,31 +465,36 @@ Delete  http://localhost:5000/api/Practitioner/delete_practitioner?id=1a24ae23-0
 
 ## Service Endpoints
 
-Get the First Service in the Database
+Get the First Service in the Database  
+
 Example Request:
 ```
 Get  http://localhost:5000/api/Service/get_service
 ```
 
-Get the First HealthFacilityService in the Database
+Get the First HealthFacilityService in the Database  
+
 Example Request:
 ```
 Get  http://localhost:5000/api/Service/get_facility_service
 ```
 
-Get the First PractitionerService in the Database
+Get the First PractitionerService in the Database  
+
 Example Request:
 ```
 Get  http://localhost:5000/api/Service/get_practitioner_service
 ```
 
-Get Service and all of its nested relationships by its Id
+Get Service and all of its nested relationships by its Id  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Service/get_service_id?id=262fb9a4-f2de-c9f1-8bc3-4d8bbfad9bd8
 ```
 
-Create a new Service
+Create a new Service  
+
 Example Request:
 ```
 Post  http://localhost:5000/api/Service/post_service
@@ -480,43 +518,50 @@ Body:
 }
 ```
 
-Create a new Health Facility Service
+Create a new Health Facility Service  
+
 Example Request:
 ```
 Post  http://localhost:5000/api/Service/post_facility_service?facilityId=au4sdae0-75c1-c1b8-1d1d-63c77d1e3fbb?serviceid=262fb9a4-f2de-c9f1-8bc3-4d8bbfad9bd8
 ```
 
-Create a new Practitioner Service
+Create a new Practitioner Service  
+
 Example Request:
 ```
 Post  http://localhost:5000/api/Service/post_practitioner_service?practitionerId=1a24ae23-0b58-5496-6a33-df58adfcb77b?serviceid=262fb9a4-f2de-c9f1-8bc3-4d8bbfad9bd8
 ```
 
-List all Services with the given name
+List all Services with the given name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/list_service_name?name=natus
 ```
 
-Count all Services with the given name
+Count all Services with the given name  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Facility/count_service_name?name=natus
 ```
 
-List all Services with the given description
+List all Services with the given description  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Service/list_service_description?description=Molestias expedita ut minus. Voluptatum minima quia odio id enim dolorem. Ipsam maiores dolore ut.
 ```
 
-Count all Services with the given description
+Count all Services with the given description  
+
 Example Request:
 ```
 Get	 http://localhost:5000/api/Service/count_service_description?description=Molestias expedita ut minus. Voluptatum minima quia odio id enim dolorem. Ipsam maiores dolore ut.
 ```
 
-Update Service
+Update Service  
+
 Example Request:
 ```
 Put  http://localhost:5000/api/Facility/put_service
@@ -540,19 +585,22 @@ Body:
 }
 ```
 
-Delete Service
+Delete Service  
+
 Example Request:
 ```
 Delete  http://localhost:5000/api/Facility/delete_service?id=262fb9a4-f2de-c9f1-8bc3-4d8bbfad9bd8
 ```
 
-Delete Health Facility Service
+Delete Health Facility Service  
+
 Example Request:
 ```
 Delete  http://localhost:5000/api/Facility/delete_facility_service?facilityid=au4sdae0-75c1-c1b8-1d1d-63c77d1e3fbb?serviceid=262fb9a4-f2de-c9f1-8bc3-4d8bbfad9bd8
 ```
 
-Delete Practitioner Service
+Delete Practitioner Service  
+
 Example Request:
 ```
 Delete  http://localhost:5000/api/Facility/delete_practitioner_service?practitionerid=1a24ae23-0b58-5496-6a33-df58adfcb77b?serviceid=262fb9a4-f2de-c9f1-8bc3-4d8bbfad9bd8
