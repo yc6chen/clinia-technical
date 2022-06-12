@@ -37,7 +37,8 @@ Put, Post, and endpoints that get nested relationships do not return status code
 # Endpoints
 
 ## Modality Endpoints
-Gets all modalities from the modalities.json file using polymorphism. 
+Gets all modalities from the modalities.json file using polymorphism.  
+
 Returns 100 entries so example response will not be fully provided
 Example Request:
 ```
